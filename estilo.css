@@ -1,0 +1,30 @@
+body{
+	background-image: url(Imagens/fundo.png);
+	max-width: 960px;
+	margin: auto;
+}
+a{
+	text-decoration: none;
+}
+.conteudo-1{
+	width: 900px;
+	background-color: tan;
+}
+.titulo{
+	color: burlywood;
+}
+.conteudo-2{
+	background-color: antiquewhite;
+	padding: 10px;
+}
+p{
+	font-size: 20px;
+}
+.rodape{
+	width: 59.86%;
+	text-align: center;
+}
+
+.img-border{
+	border: 10px solid tan;
+}
